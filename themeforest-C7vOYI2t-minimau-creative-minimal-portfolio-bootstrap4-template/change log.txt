@@ -1,0 +1,17 @@
+Change Log:    25.11.19
+=======================
+Fix: Remove customizer panel from downloadable file
+
+Change Log:    14.10.19
+=======================
+Added: One home page added
+
+
+Change Log:    15.09.19
+=======================
+Added: One home page added
+
+
+Change Log:    13.04.19
+=======================
+Fixed: Full page mobile menu issue fix
